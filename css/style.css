@@ -273,7 +273,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section-city {
-  background: url(/img/bcg-city.jpg) center no-repeat;
+  background: url(../img/bcg-city.jpg) center no-repeat;
   background-size: cover;
   padding: 75px 0;
 }
